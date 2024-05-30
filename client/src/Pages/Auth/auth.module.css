@@ -1,0 +1,19 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper h1 {
+    font: 500 23px Inter;
+    margin-top: 155px;
+}
+
+.wrapper p {
+    font: 500 14px Inter;
+    color: #606778;
+    margin-top: 8px;
+}
+
+ .TextField {
+    width: 100%;
+}
